@@ -4,9 +4,9 @@
 ## Description
 Dope Website, cooler than everyone else's
 ## You need a pretty awesome computer for this
-*Open the link
-*_Click Around_
-*_Find Saucer-man_
+* Open the link
+* _Click Around_
+* _Find Saucer-man_
 ## Known bugs
 _not enough links, don't get lost!_
 ## Support
